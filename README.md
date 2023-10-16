@@ -1,16 +1,7 @@
 # roll_dice
 
-A new Flutter project.
+A sample flutter project that rolls a dice when a button is clicked.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<video src="Simulator%20Screen%20Recording%20-%20iPhone%20XR%20-%202023-10-16%20at%2017.06.16.mp4" controls title="Title"></video>
